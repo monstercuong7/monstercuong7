@@ -10,22 +10,7 @@
 
 ### `📫 How to reach me:`
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/cuonghungnguyen/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
-  <a href="https://www.facebook.com/people/Nguy%E1%BB%85n-C%C6%B0%E1%BB%9Dng/pfbid02WtS115goQtthgzxnK1ykygSRGG3ya2WpoFrjcJZ3bR6jsUTTYBg98UUkA9tm2bTKl/" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/AT190510-Cuong/AT190510-Cuong" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-<!--   <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
-  </a> -->
-  <a href="AT190510@actvn.edu.vn" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
+
 <!--   <a href="monstercuong7.wordpress.com" alt="Wordpress">
     <img src="https://www.freepnglogos.com/uploads/wordpress-logo-png/wordpress-logo-png-transparent-wordpress-logo-images-pluspng-6.png" width=80px, height=80px/>
   </a> -->

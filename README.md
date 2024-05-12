@@ -14,16 +14,7 @@
 <!--   <a href="monstercuong7.wordpress.com" alt="Wordpress">
     <img src="https://www.freepnglogos.com/uploads/wordpress-logo-png/wordpress-logo-png-transparent-wordpress-logo-images-pluspng-6.png" width=80px, height=80px/>
   </a> -->
-  <a href="monstercuong7.wordpress.com" alt="Wordpress">
-    <img src="https://i.postimg.cc/7LskpPyQ/icons8-wordpress-48.png" width=48px, height=48px/>
-  </a>
-   <a href="https://hackmd.io/@keTCkrJ0QlKITc5WB81F6g?fbclid=IwAR1j6Ksx5sVI9ba0ZC9SixzWv-W8xY6HXe4F6kxOoHMtV6n2V_7WyT3EkB4" target="_blank">
-    <img src="https://i.postimg.cc/k4TkQvTD/icons8-hack-64-2.png" width="60" height="50"/>
-  </a>
 
-   <a href="https://tryhackme.com/p/Monstercuong7" target="_blank">
-        <img src="https://i.postimg.cc/rp7M8xPt/Simpleicons-Team-Simple-Tryhackme-512.png" width="50" height="50" />
-    </a>
 
 
 </p>

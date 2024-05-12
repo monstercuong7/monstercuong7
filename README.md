@@ -108,7 +108,7 @@
     <tr>
 
   <td>
-       <img width="1000" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AT190510-Cuong&theme=dracula&hide_border=true"/>
+      
       </td>
     </tr>
   </tbody>
